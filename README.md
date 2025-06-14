@@ -3,9 +3,8 @@
 Name: Chiara Jugno
 
 To run this program, do the following:
-
-Compile the program using g++ marquee.cpp -o marquee.exe
-Run .\marquee
+1. Compile the program using g++ marquee.cpp -o marquee.exe
+2. Run .\marquee
+3. 
 Entry File:
-
-The main function is located in marquee.cpp
+- The main function is located in marquee.cpp
